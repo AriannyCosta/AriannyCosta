@@ -1,3 +1,12 @@
+<img src="https://github.com/AriannyCosta/AriannyCosta/blob/main/image/Banner%20GitHub.png" width="100%" height="auto"/>
+<p align="center">
+  <a href="https://www.instagram.com/arianny_scosta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ariannycosta.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arianny-soares-938b2522b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
+##
+
 Olá! Eu sou Arianny Costa 🫂
 
 <p align="center">Tecnologias utilizadas:</p>
@@ -12,11 +21,3 @@ Olá! Eu sou Arianny Costa 🫂
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </p>
 
-##
-
-<p align="center">Contato:</p>
-<p align="center">
-  <a href="https://www.instagram.com/ari.soaresc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ariannycosta.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/arianny-soares-938b2522b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
